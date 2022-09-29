@@ -1,6 +1,6 @@
 #Ingredients
 -avocado
 -lime
--pepper
+-pepperpepper
 -salt
 #Instructions
